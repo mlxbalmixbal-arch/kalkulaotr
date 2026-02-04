@@ -1,2 +1,0 @@
-# kalkulaotr
-калькулятор mixbal
